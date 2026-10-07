@@ -1,0 +1,33 @@
+h1 {
+  color: blue;
+}
+
+.my-second-paragraph {
+  color: red;
+}
+
+#my-paragraph-id {
+  color: pink;
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: flex-end;
+}
+
+h1,
+p {
+  color: greenyellow;
+}
+
+section p {
+  font-weight: 1000;
+  background-color: blue;
+}
+
+button:hover {
+  background-color: brown;
+  color: white;
+}
