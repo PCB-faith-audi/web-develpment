@@ -1,0 +1,10 @@
+.highlight {
+    background-color: #fff3a3;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+#note-count {
+    color: #8e0000;
+    font-weight: bold;
+}
